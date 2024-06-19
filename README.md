@@ -7,14 +7,13 @@
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px></picture>
 
 <br>
-My name is Jorge Sebastian, a passionate Self-taught Front-end and Back-end developer
-Playing CTFs in my spare time
-Currently learning Web Development by myself
-In my free time, I learn or develop projects to improve my skills
-I'm about to finish my degree in Computer Systems Engineering
-I was a semifinalist in a hackathon
-Personal website link
-I’m currently open for an intern or a new job opportunity, this is my resume
+- My name is Jorge Sebastian, a passionate Self-taught Front-end and Back-end developer
+- Playing CTFs in my spare time
+- Currently learning Web Development by myself
+- In my free time, I learn or develop projects to improve my skills
+- I'm about to finish my degree in Computer Systems Engineering
+- I was a semifinalist in a hackathon
+- I’m currently open for an intern or a new job opportunity, this is my resume
 
 <br><br>
 
